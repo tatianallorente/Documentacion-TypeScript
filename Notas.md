@@ -1,3 +1,5 @@
+### TypeScript
+
 Instalar TypeScript (primero es necesario npm):
 
 `sudo npm install -g typescript`
@@ -38,7 +40,7 @@ Por ejemplo, la propiedad _"removeComments"_, también podriamos hacerlo:
 
 `tsc app.js --removeComments`
 
-# Concatenar texto
+### Concatenar texto
 En vez de hacer como antes:
 
 `console.log("Los héroes son " + batman + " y " + superman);`
